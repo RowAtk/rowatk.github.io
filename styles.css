@@ -41,7 +41,8 @@ body{
 
 #sidebar{
 	/*grid-row: 1 / span 4;*/
-	background-color: #969A97;
+	/*background-color: #969A97;*/
+	background-color: #BEC4BF;
 	padding: 15px;
 }
 
@@ -92,7 +93,8 @@ body{
 }
 
 .divider{
-	border: 1px solid #969A97;
+	/*border: 1px solid #969A97;*/
+	border: 1px solid #BEC4BF;
 	/*border-radius: 90%;*/
 }
 
