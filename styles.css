@@ -62,7 +62,7 @@ body{
 }
 
 #side-divider{
-	border: 2px solid black;
+	border: 1px solid black;
 	border-radius: 70%;
 	margin: 5px;
 }
@@ -92,7 +92,7 @@ body{
 }
 
 .divider{
-	border: 2px solid gray;
+	border: 1px solid #969A97;
 	/*border-radius: 90%;*/
 }
 
